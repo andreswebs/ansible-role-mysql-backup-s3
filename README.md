@@ -20,6 +20,6 @@ mysql_backup_cron.month
 
 mysql_backup_cron.weekday
 
-# license
+## license
 
 [Unlicense](UNLICENSE.md)
