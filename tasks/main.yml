@@ -1,2 +1,2 @@
 ---
-- import_tasks: mysql_backup_s3.yml
+- import_tasks: mysql-backup-s3.yml
